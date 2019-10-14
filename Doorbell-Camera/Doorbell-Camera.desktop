@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Doorbell Camera
+Terminal=True
+Exec=/home/demoia/DemoIA/Doorbell-Camera/Doorbell-Camera.sh
+Categories=Application;Network;
+Icon=/usr/share/icons/hicolor/256x256/apps/org.gnome.Cheese.png
