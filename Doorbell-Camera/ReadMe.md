@@ -35,3 +35,9 @@ And comment it out by adding two slashes in front of it, so it looks like this:
 
 	sudo pip3 install face_recognition
 
+
+## Portable
+
+Compilation de DLIB :
+
+	sudo python3 setup.py install --set CMAKE_C_COMPILER=/usr/bin/gcc-6
